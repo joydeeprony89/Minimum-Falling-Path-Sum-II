@@ -53,7 +53,8 @@ public class Solution
     }
 }
 
-
+// O(N3)
+// O(N)
 class Solution(object) :
     def minFallingPathSum(self, grid):
         N = len(grid)
